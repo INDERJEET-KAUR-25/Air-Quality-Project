@@ -1,0 +1,12 @@
+feature_1: CO(GT)
+feature_2: PT08.S1(CO)
+feature_3: C6H6(GT)
+feature_4: PT08.S2(NMHC)
+feature_5: NOx(GT)
+feature_6: PT08.S3(NOx)
+feature_7: NO2(GT)
+feature_8: PT08.S4(NO2)
+feature_9: PT08.S5(O3)
+feature_10: T
+feature_11: RH
+feature_12: AH

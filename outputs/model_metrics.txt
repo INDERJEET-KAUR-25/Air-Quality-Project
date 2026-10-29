@@ -1,0 +1,8 @@
+Air Quality Benzene Prediction - Test Metrics
+=============================================
+Training rows: 7192
+Testing rows: 1798
+Input features: 12
+RMSE: 3.481544
+MAE: 2.301180
+R-squared: 0.714571
